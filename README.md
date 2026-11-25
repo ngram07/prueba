@@ -1,3 +1,3 @@
 ## Codigo inicial
 
-Se agrego un archivo app.js dentro con una funcion de saludar A MI
+Se agrego un archivo app.js dentro con una funcion de saludar A TODOS
